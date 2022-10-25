@@ -17,6 +17,41 @@
         Kurs Python for SEO https://www.jcchouinard.com/python-for-seo/</p></td>
   </tr>
     <tr>
+        <td>The Microsoft Learn Cloud Skills Challenge</td>
+        <td>https://www.microsoft.com/en-US/cloudskillschallenge/ignite/registration/2022</td>
+        <td>Microsoft Ignite: AI Automation Challenge, nice intro to some ML models implementations in python, then intro to Microsoft's tools</td>
+  </tr>
+    <tr>
+        <td>From Data to Insights with Google Cloud</td>
+        <td>https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform</td>
+        <td> in progress </td>
+  </tr>
+   <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+  </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+  </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+  </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+  </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+  </tr>
+    <tr>
         <td></td>
         <td></td>
         <td></td>
