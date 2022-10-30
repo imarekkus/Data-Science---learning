@@ -19,7 +19,7 @@
     <tr>
         <td>The Microsoft Learn Cloud Skills Challenge</td>
         <td>https://www.microsoft.com/en-US/cloudskillschallenge/ignite/registration/2022</td>
-        <td>Microsoft Ignite: AI Automation Challenge, nice intro to some ML models implementations in python, then intro to Microsoft's tools</td>
+        <td>Microsoft Ignite: AI Automation Challenge, nice intro to some ML models implementations in python, then intro to Microsoft's tools. Here is link to all the         courses in  <a href="https://learn.microsoft.com/pl-pl/users/cloudskillschallenge/collections/o1qrb5wedm52?WT.mc_id=cloudskillschallenge_8aee1e58-eeb8-409f-            b0d0-d15afcc8045c">AI automation challenge</a> </td>
   </tr>
     <tr>
         <td>From Data to Insights with Google Cloud</td>
