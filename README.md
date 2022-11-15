@@ -24,12 +24,12 @@
     <tr>
         <td>From Data to Insights with Google Cloud</td>
         <td>https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform</td>
-        <td> in progress </td>
+        <td> General overview of Google Cloud, mainly Big Query and analysis through SQL commands </td>
   </tr>
    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Hactoberfest</td>
+        <td>https://hacktoberfest.com/auth/</td>
+        <td> Great way of learning how to operate git, github etc</td>
   </tr>
     <tr>
         <td></td>
