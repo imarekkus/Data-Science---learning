@@ -3,12 +3,12 @@
 
 <table>
     <tr>
-      <th colspan="3"><h3>Podcasts</h3></th>
+      <th colspan="3"><h3>Useful things</h3></th>
     </tr>
    <tr>
         <td><h4>Title</h4></td>
         <td><h4>Link</h4></td>
-        <td><h4>Useful things</h4></td>
+        <td><h4>Description</h4></td>
   </tr>
     <tr>
         <td>70% of the time is data cleaning - little talk about data science and SEO</td>
