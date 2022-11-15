@@ -12,7 +12,7 @@
   </tr>
     <tr>
         <td>70% of the time is data cleaning - little talk about data science and SEO</td>
-      <td>https://www.youtube.com/watch?v=MQmMfuTzyA0</td>
+        <td>https://www.youtube.com/watch?v=MQmMfuTzyA0</td>
         <td>SEO keyword research https://code.markedmondson.me/search-console-google-analytics-r-keyword-research/<p>
         Kurs Python for SEO https://www.jcchouinard.com/python-for-seo/</p></td>
   </tr>
@@ -32,9 +32,9 @@
         <td> Great way of learning how to operate git, github etc</td>
   </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Python Data Science Handbook</td>
+        <td>https://jakevdp.github.io/PythonDataScienceHandbook/</td>
+        <td>in progress, for now seems great</td>
   </tr>
     <tr>
         <td></td>
