@@ -28,7 +28,7 @@
         <td>From Data to Insights with Google Cloud</td>
         <td>https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform</td>
         <td> General overview of Google Cloud, mainly Big Query and analysis through SQL commands </td>
-        <td><a href='https://coursera.org/share/0eb8324b8c0964d41ef4b691ac925607'>certification</a></td>
+        <td><a href='https://coursera.org/share/0eb8324b8c0964d41ef4b691ac925607'>certificate</a></td>
   </tr>
    <tr>
         <td>Hactoberfest</td>
@@ -43,9 +43,10 @@
         <td></td>
   </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Python Bootcamp</td>
+        <td>https://www.udemy.com/course/complete-python-bootcamp/</td>
+        <td>Great to complement knowledge from uni, generally good intro to Python</td>
+        <td><a href='https://github.com/imarekkus/Data-Science---learning/files/10020585/Python_cert.pdf'>certificate</a></td>
   </tr>
     <tr>
         <td></td>
