@@ -46,7 +46,7 @@
         <td>Python Bootcamp</td>
         <td>https://www.udemy.com/course/complete-python-bootcamp/</td>
         <td>Great to complement knowledge from uni, generally good intro to Python</td>
-        <td><a href='https://github.com/imarekkus/Data-Science---learning/files/10020585/Python_cert.pdf'>certificate</a></td>
+        <td><a href='https://user-images.githubusercontent.com/49692939/202153713-e79bb13f-b42f-427e-87eb-1ac9a822455c.png'>certificate</a></td>
   </tr>
     <tr>
         <td></td>
