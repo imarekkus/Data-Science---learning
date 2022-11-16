@@ -49,9 +49,10 @@
         <td><a href='https://user-images.githubusercontent.com/49692939/202153713-e79bb13f-b42f-427e-87eb-1ac9a822455c.png'>certificate</a></td>
   </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Power BI Desktop for BI</td>
+        <td>https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/?src=sac&kw=Power+BI+Desktop+for+BI</td>
+        <td>Very good intro to Power BI with some DAX</td>
+        <td><a href='https://user-images.githubusercontent.com/49692939/202154395-600b92ef-3590-41a2-9c73-6ab6abb002a9.png'>certificate</a></td>
   </tr>
     <tr>
         <td></td>
