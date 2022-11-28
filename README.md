@@ -18,7 +18,7 @@
 | SAP BI/BW Training  | [Link to course](https://www.udemy.com/course/sap-bi-training/)  | Basics knowledge of SAP and BW with 2 end-to-end implementations   | [certificate](https://user-images.githubusercontent.com/49692939/202205208-1e602583-0393-4783-a008-1475130b08ee.png) <br/> ![image](https://user-images.githubusercontent.com/49692939/202205208-1e602583-0393-4783-a008-1475130b08ee.png)  |
 | SAP Data Services Masterclass  | [Link to course](https://www.udemy.com/course/sap-bods/)  | ETL tool, Course offers thorough walk through BODS capabilities   | [certificate](https://user-images.githubusercontent.com/49692939/202207220-7ec2f097-143a-49a0-8dc4-c80b2deafa7d.png) <br/> ![image](https://user-images.githubusercontent.com/49692939/202207220-7ec2f097-143a-49a0-8dc4-c80b2deafa7d.png)   |
 | SAP Analytics Cloud Masterclass  | [Link to course](https://www.udemy.com/course/sap-analytics-cloud-master-class/)  | Visualization tool, similar to Power BI but in cloud, course gives basic understanding of the system and its features  | [certificate](https://user-images.githubusercontent.com/49692939/202208656-ef32a76d-a44a-4641-a1dd-ef6557e9fa7e.png) <br/> ![image](https://user-images.githubusercontent.com/49692939/202208656-ef32a76d-a44a-4641-a1dd-ef6557e9fa7e.png)  |
-|   |   |   |   |
+| Introduction to DataFrames.jl  | [Link to course](https://juliaacademy.com/courses/enrolled/1237045)  | Basic understanding of how to work with data frames in Julia | [certificate](https://user-images.githubusercontent.com/49692939/204263211-8798f0da-6323-4558-8194-ed36665b89bf.png) <br/> ![image](https://user-images.githubusercontent.com/49692939/204263211-8798f0da-6323-4558-8194-ed36665b89bf.png)   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
